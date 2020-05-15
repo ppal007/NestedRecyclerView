@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NestedRecyclerView</string>
+
+    <!--    team name -->
+    <string-array name="team_list">
+        <item>Afghanistan</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Eng-Land</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>South Africa</item>
+        <item>Sri-Lanka</item>
+        <item>Zimbabua</item>
+        <item>West Indies</item>
+    </string-array>
+</resources>
